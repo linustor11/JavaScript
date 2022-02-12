@@ -1,0 +1,1 @@
+if we don't have class name, we append it    *guessBtn.className += 'play-again'* like this
